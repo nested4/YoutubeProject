@@ -22,7 +22,7 @@ public class Youtube {
         WebElement searchBox = driver.findElement(By.xpath("//input[@id=\"search\"]"));
         searchBox.click();
         searchBox.sendKeys("xiaomi s10t robot süpürge"+ Keys.ENTER);
-        driver.findElement(By.xpath("//a[@title=\"Xiaomi Robot Vacuum S10T | En güçlü Robot Süpürge 8000 PA | Most Powerful Robot Vacuum of 2023\"]")).click();
+        driver.findElement(By.xpath("//a[@title=\"Xiaomi Robot Vacuum S10T | En güçlü Robot Süpürge 8000 Pa | Most Powerful Robot Vacuum of 2023\"]")).click();
 
     }
     @Test
@@ -34,7 +34,7 @@ public class Youtube {
         WebElement searchBox = driver.findElement(By.xpath("//input[@id=\"search\"]"));
         searchBox.click();
         searchBox.sendKeys("xiaomi s10t robot süpürge"+ Keys.ENTER);
-        driver.findElement(By.xpath("//a[@title=\"Xiaomi Robot Vacuum S10T | En güçlü Robot Süpürge 8000 PA | Most Powerful Robot Vacuum of 2023\"]")).click();
+        driver.findElement(By.xpath("//a[@title=\"Xiaomi Robot Vacuum S10T | En güçlü Robot Süpürge 8000 Pa | Most Powerful Robot Vacuum of 2023\"]")).click();
 
     }
 
@@ -47,7 +47,7 @@ public class Youtube {
         WebElement searchBox = driver.findElement(By.xpath("//input[@id=\"search\"]"));
         searchBox.click();
         searchBox.sendKeys("xiaomi s10t robot süpürge"+ Keys.ENTER);
-        driver.findElement(By.xpath("//a[@title=\"Xiaomi Robot Vacuum S10T | En güçlü Robot Süpürge 8000 PA | Most Powerful Robot Vacuum of 2023\"]")).click();
+        driver.findElement(By.xpath("//a[@title=\"Xiaomi Robot Vacuum S10T | En güçlü Robot Süpürge 8000 Pa | Most Powerful Robot Vacuum of 2023\"]")).click();
 
     }
 
